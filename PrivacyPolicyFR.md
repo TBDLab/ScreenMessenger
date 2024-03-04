@@ -1,8 +1,6 @@
-**POLITIQUE DE CONFIDENTIALITÉ**
+<h1 style="text-align: center;">POLITIQUE DE CONFIDENTIALITÉ</h1>
 
-
-**Screen Messenger**
-TBDLab
+<p style="text-align: center;">Screen Messenger<br>TBDLab</p>
 
 **Le but de cette politique de confidentialité**
 
